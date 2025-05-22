@@ -72,6 +72,6 @@ This part demonstrates:
 - [`database_setup.sql`](./9d_delete_employees_whose_names_start_with_'S'/database/database_setup.sql)
 
 ### 🔗 Output Screens:
-- [9d.png](./9d_delete_employees_whose_names_start_with_'S'/9d.png)
-- [9d0.png](./9d_delete_employees_whose_names_start_with_'S'/9d0.png)
+- [9d.png](./9d_delete_employees_whose_names_start_with_'S'/9d.jpg)
+- [9d0.png](./9d_delete_employees_whose_names_start_with_'S'/9d0.jpg)
 
