@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="8a_Read all coffee records and insert a new one">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <property name="context-root" value="8a_Read_all_coffee_records_and_insert_a_new_one"/>
+        <property name="java-output-path" value="/8a_Read all coffee records and insert a new one/build/classes"/>
+    </wb-module>
+</project-modules>
