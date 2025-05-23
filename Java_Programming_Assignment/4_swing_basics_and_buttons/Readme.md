@@ -7,7 +7,7 @@ This section contains basic Swing programs in Java including simple window creat
 - **[4a_basic_hello_swing_program](./4a_basic_hello_swing_program)**
 
   - **HelloSwing.java**  
-    [View Output](./4a_basic_hello_swing_program/4a.png)
+    [View Output](./4a_basic_hello_swing_program/4a.jpg)
 
 - **[4b_swing_with_buttons_india_and_srilanka](./4b_swing_with_buttons_india_and_srilanka)**
 
