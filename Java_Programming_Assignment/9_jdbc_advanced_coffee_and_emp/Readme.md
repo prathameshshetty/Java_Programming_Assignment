@@ -54,8 +54,8 @@ This part demonstrates:
 - [`database_setup.sql`](./9c_append_new_employee_record/database/database_setup.sql)
 
 ### 🔗 Output Screens:
-- [9c.png](./9c_append_new_employee_record/9c.png)
-- [9c0.png](./9c_append_new_employee_record/9c0.png)
+- [9c.png](./9c_append_new_employee_record/9c.jpg)
+- [9c0.png](./9c_append_new_employee_record/9c0.jpg)
 
 ---
 
